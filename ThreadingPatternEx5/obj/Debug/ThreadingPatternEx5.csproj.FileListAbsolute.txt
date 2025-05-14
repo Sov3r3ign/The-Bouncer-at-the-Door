@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\VStudio\ThreadingPatternEx5\ThreadingPatternEx5\bin\Debug\ThreadingPatternEx5.exe.config
+C:\Users\PC\Downloads\VStudio\ThreadingPatternEx5\ThreadingPatternEx5\bin\Debug\ThreadingPatternEx5.exe
+C:\Users\PC\Downloads\VStudio\ThreadingPatternEx5\ThreadingPatternEx5\bin\Debug\ThreadingPatternEx5.pdb
+C:\Users\PC\Downloads\VStudio\ThreadingPatternEx5\ThreadingPatternEx5\obj\Debug\ThreadingPatternEx5.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\VStudio\ThreadingPatternEx5\ThreadingPatternEx5\obj\Debug\ThreadingPatternEx5.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\VStudio\ThreadingPatternEx5\ThreadingPatternEx5\obj\Debug\ThreadingPatternEx5.exe
+C:\Users\PC\Downloads\VStudio\ThreadingPatternEx5\ThreadingPatternEx5\obj\Debug\ThreadingPatternEx5.pdb
